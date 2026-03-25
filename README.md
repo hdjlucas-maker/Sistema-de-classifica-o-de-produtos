@@ -13,3 +13,19 @@ Ajudar na tomada de decisão para vendas, organização de produtos e análise d
 ## ▶️ Como usar
 
 1. Execute o programa:
+
+
+2. Digite o nome e o preço do produto
+
+3. Veja o relatório final
+
+## 🚀 Tecnologias
+
+- Python
+
+## 📊 Funcionalidades
+
+- Cadastro de produtos
+- Classificação automática
+- Relatório final
+- Análise de vendas
