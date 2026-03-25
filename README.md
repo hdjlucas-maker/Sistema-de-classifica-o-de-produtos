@@ -29,3 +29,7 @@ Ajudar na tomada de decisão para vendas, organização de produtos e análise d
 - Classificação automática
 - Relatório final
 - Análise de vendas
+
+
+Conheça nossos projetos  
+https://github.com/hdjlucas-maker
